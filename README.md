@@ -1,1 +1,1 @@
-# plugin-extra-image-caption
+# extra-image-caption
